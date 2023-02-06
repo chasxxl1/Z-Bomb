@@ -8,7 +8,7 @@ Z-Bomb, @tingirifistik tarafından geliştirilen Enough projesinden tarafımca b
 # Kurulum
 ```
 git clone https://github.com/Bora185/Z-Bomb.git
-cd Enough
+cd Z-Bomb
 pip3 install -r requirements.txt
 python3 zbomb.py
 ```

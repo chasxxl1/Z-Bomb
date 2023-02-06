@@ -20,7 +20,7 @@ python3 zbomb.py
 - Açık kaynak kodlu
 - Ultra gizli
 - Hızlı
-- 
+
 # Bilinen Hatalar
 - Ara özelliği kararsız çalışıyor.
 

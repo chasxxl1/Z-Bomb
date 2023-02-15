@@ -1,5 +1,5 @@
 [![Hits](https://hits.sh/github.com/Bora185/SMS-Bomber.svg?label=views&color=c44ee7)](https://hits.sh/github.com/Bora185/SMS-Bomber/)
-# Z-Bomb [ŞUANLIK KAPALI]
+# Z-Bomb [ÇOK YAKINDA...]
 Z-Bomb, @tingirifistik tarafından geliştirilen Enough projesinden tarafımca bazı modifikasyonlar, iyileştirmeler yapılarak yayınlandı. Visual Studio Code'da yazıldı.
 
 ![1](https://user-images.githubusercontent.com/111361998/214158175-446bc077-09e9-4cbc-90ce-d9b94fd349e5.png)
